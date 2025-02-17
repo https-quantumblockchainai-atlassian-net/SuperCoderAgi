@@ -19,7 +19,7 @@
     "framer-motion": "^11.2.4",
     "install": "^0.13.0",
     "js-cookie": "^3.0.5",
-    "monaco-editor": "^0.50.0",
+    "monaco-editor": "^0.52.2",
     "next": "14.2.2",
     "react": "^18",
     "react-beautiful-dnd": "^13.1.1",
